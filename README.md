@@ -31,6 +31,10 @@ Une notification sera envoyée sur le téléphone des personnes qui ne sont pas 
 
 ![Schéma Garage Intelligent](https://github.com/Silena13/Parking-Intelligent/assets/130862701/30c80a31-a4e5-4fee-913e-75e5ddbd33f3)
 
+## Visuel principal de P.I.F :
+
+![A3](https://github.com/Silena13/P.I.F/assets/130862701/c29bd4a9-bc7a-497e-b43e-34b64495a5b7)
+
 ## Visuel final de P.I.F :
 
 ![IMG_3270](https://github.com/Silena13/P.I.F/assets/130862701/baf3539d-700a-4f3b-9f43-20092f5b8eee)
